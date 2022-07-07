@@ -4,3 +4,6 @@ SURAJ AMBHORE
 KONDBA PANDITRA AMBHORE 
 AT SUKALI TQ BASMAT DIST HINGOLI
 FROM DIGITAL MAAIN.COM
+
+Java is platform independed so we can use anywhere
+ 
