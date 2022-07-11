@@ -2,3 +2,5 @@ Hello welcome to java
 
 
 Java is not difficult.
+
+Java is easy when we make practice again and again
